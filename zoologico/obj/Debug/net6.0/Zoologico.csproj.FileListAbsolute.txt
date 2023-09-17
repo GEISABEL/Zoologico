@@ -1,0 +1,84 @@
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\Zoologico.exe
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\Zoologico.deps.json
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\Zoologico.runtimeconfig.json
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\Zoologico.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\Zoologico.pdb
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\EntityFramework.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\System.Data.SQLite.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\System.CodeDom.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\Zoologico.csproj.AssemblyReference.cache
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\Zoologico.AssemblyInfoInputs.cache
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\Zoologico.AssemblyInfo.cs
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\Zoologico.csproj.CoreCompileInputs.cache
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\Zoologico.csproj.CopyComplete
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\Zoologico.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\refint\Zoologico.dll
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\Zoologico.pdb
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\Zoologico.genruntimeconfig.cache
+E:\Usuarios\Documentos\Arquivos uteis\Arquivos da Faculdade\4º Semestre\POO 2\Zoologico\Zoologico\obj\Debug\net6.0\ref\Zoologico.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\zoologico.exe
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\zoologico.deps.json
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\zoologico.runtimeconfig.json
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\zoologico.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\zoologico.pdb
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jeffe\source\repos\zoologico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\zoologico.csproj.AssemblyReference.cache
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\zoologico.AssemblyInfoInputs.cache
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\zoologico.AssemblyInfo.cs
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\zoologico.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\zoologico.csproj.CopyComplete
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\zoologico.dll
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\refint\zoologico.dll
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\zoologico.pdb
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\zoologico.genruntimeconfig.cache
+C:\Users\jeffe\source\repos\zoologico\obj\Debug\net6.0\ref\zoologico.dll
